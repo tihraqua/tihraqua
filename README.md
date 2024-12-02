@@ -17,17 +17,18 @@ ISTQB® certified and experienced Quality Assurance Engineer with demonstrated 5
 - Test Automation: Selenium WebDriver, Appium, Selenium Grid;
 - CICD: GitHub CI, Jenkins;
 - Frameworks: TestNG;
+ - Technologies: AWS,
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---------------------------------------------------------------------------------------------------------------------------
 
 
 <div align="center">
 
 <h2>📊 Profile stats</h2>
 
-![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrsa1&show_icons=true&theme=radical)
+![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tihraqua&show_icons=true&theme=radical)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrsa1&hide=scss,css,html&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tihraqua&hide=scss,css,html&theme=dark&layout=compact)
 
 </div>
 
@@ -35,19 +36,11 @@ ISTQB® certified and experienced Quality Assurance Engineer with demonstrated 5
 <div align="center">
   <h2>🎉 My open source projects</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=Android-Emulator&theme=dark)](https://github.com/amrsa1/Android-Emulator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=playwright-android&theme=dark)](https://github.com/amrsa1/playwright-android) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=Android-Emulator&theme=dark)](https://github.com/tihraqua/AutomationSauceLab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=playwright-android&theme=dark)](https://github.com/tihraqua/hello_world) 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=android-emulator-workflow&theme=dark)](https://github.com/amrsa1/android-emulator-workflow)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=GPT-unitTest&theme=dark)](https://github.com/amrsa1/GPT-unitTest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=android-emulator-workflow&theme=dark)](https://github.com/tihraqua/shaft-demo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=GPT-unitTest&theme=dark)](https://github.com/tihraqua/225-github-actions-demo)
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=wdio-nativeApp&theme=dark)](https://github.com/amrsa1/wdio-nativeApp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=wdio-xplatform-mobile-app&theme=dark)](https://github.com/amrsa1/wdio-xplatform-mobile-app)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=desktopAppAutomationTest&theme=dark)](https://github.com/amrsa1/desktopAppAutomationTest)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=playwright-APITesting&theme=dark)](https://github.com/amrsa1/playwright-APITesting)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=UniParser&theme=dark)](https://github.com/amrsa1/UniParser)
   
 </div>
-- Technologies: AWS,
