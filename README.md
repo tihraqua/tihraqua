@@ -36,11 +36,11 @@ ISTQB® certified and experienced Quality Assurance Engineer with demonstrated 5
 <div align="center">
   <h2>🎉 My open source projects</h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=Android-Emulator&theme=dark)](https://github.com/tihraqua/AutomationSauceLab)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=playwright-android&theme=dark)](https://github.com/tihraqua/hello_world) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=AutomationSauceLab&theme=dark)](https://github.com/tihraqua/AutomationSauceLab)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=hello_world&theme=dark)](https://github.com/tihraqua/hello_world) 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=android-emulator-workflow&theme=dark)](https://github.com/tihraqua/shaft-demo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=GPT-unitTest&theme=dark)](https://github.com/tihraqua/225-github-actions-demo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=shaft-demo&theme=dark)](https://github.com/tihraqua/shaft-demo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tihraqua&repo=225-github-actions-demo&theme=dark)](https://github.com/tihraqua/225-github-actions-demo)
   
   
 </div>
