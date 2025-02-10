@@ -7,10 +7,10 @@
 
 <p>
 <a href="https://www.linkedin.com/in/tihraqua/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+</p> <p>
+<a href="https://tihraquamahdi.dev/"><img src="https://img.shields.io/badge/My%20Personal%20Website-8A2BE5" height=25></a>
 </p>
-<p>
-<a href="https://tihraquamahdi.dev/"><img src="https://img.shields.io/badge/My%20Personal%20Website-8A2BE2" height=25></a>
-</p>
+
 ISTQB® certified and experienced Quality Assurance Engineer with demonstrated 5+ years of experience working in the fintech and telecom industries, skilled in systems integration testing, APIs testing, systems testing, black-box testing, acceptance testing, end-to-end testing, and regression testing. Solid knowledge of software test design and testing methodologies and hands-on experience testing payment mobile applications, POS applications, ATMs, core-banking systems, payment systems, and payment processing switches. I am currently pursuing a challenging opportunity in a mature environment to expand my knowledge in a new industry and apply my experience to help reach the best software and product quality.
 
 
