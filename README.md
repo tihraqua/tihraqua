@@ -2,7 +2,7 @@
 # This is Tihraqua Alhussein
 - ⏳ 5+ years of experience in Software Testing.
 - 🏆 Certified: ISTQB-FL, ISTQB-MAT
-- 🌱 I’m currently learning Playwright
+- 🌱 I’m currently learning Playwright and JS
 - 📫 For free to contact me on [email](mailto:tihraquamahdi@gmail.com)
 
 <p>
