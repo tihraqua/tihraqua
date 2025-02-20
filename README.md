@@ -6,7 +6,7 @@
 - 📫 For free to contact me on [email](mailto:tihraquamahdi@gmail.com)
 
 <p>
-<a href="https://www.linkedin.com/in/tihraqua/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/tihraqua/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/My%20LinkedIn-0077b5" height=25></a>
  <a href="https://tihraquamahdi.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/My%20Personal%20Website-08296b" height=25></a>
 </p> 
 
