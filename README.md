@@ -12,7 +12,12 @@
 
 
 
-ISTQB® certified and experienced Quality Assurance Engineer with demonstrated 5+ years of experience working in the fintech and telecom industries, skilled in systems integration testing, APIs testing, systems testing, black-box testing, acceptance testing, end-to-end testing, and regression testing. Solid knowledge of software test design and testing methodologies and hands-on experience testing payment mobile applications, POS applications, ATMs, core-banking systems, payment systems, and payment processing switches. I am currently pursuing a challenging opportunity in a mature environment to expand my knowledge in a new industry and apply my experience to help reach the best software and product quality.
+ISTQB® certified Software Quality Assurance and Application Tester with over 6 years of experience in the fintech, telecom,
+government, and insurance industries. Proficient in systems integration testing, API testing, and regression testing, with a solid
+understanding of software test design and testing methodologies and hands-on experience testing mobile applications, web
+applications, and DB testing. Demonstrated expertise in creating test plans, test cases, and scripts, and a strong background in
+performance testing using JMETER and automation testing using Selenium Webdriver and Appium with JAVA. Familiar with
+Agile/Scrum development methodologies and version control systems. Excellent numeracy, analytical, and troubleshooting skills.
 
 
 - ## Skills and Technologies
