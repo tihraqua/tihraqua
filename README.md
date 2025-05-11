@@ -35,7 +35,7 @@ Agile/Scrum development methodologies and version control systems. Excellent num
 
   ---------------------------------------------------------------------------------------------------------------------------
 <div align="center">
-[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+![My user statistics](images/userstats.svg)
 </div> 
 <div align="center">
 
