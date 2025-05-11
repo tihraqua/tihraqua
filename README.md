@@ -1,4 +1,6 @@
-![My user statistics](images/userstats.svg)
+![My user statistics](images/repos.svg)
+![My user statistics](images/languages.svg)
+![My user statistics](images/contribs.svg)
 ## Hi there 👋
 # This is Tihraqua Alhussein
 - ⏳ 5+ years of experience in Software Testing.
