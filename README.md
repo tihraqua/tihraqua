@@ -19,19 +19,7 @@ applications, and DB testing. Demonstrated expertise in creating test plans, tes
 performance testing using JMETER and automation testing using Selenium Webdriver and Appium with JAVA. Familiar with
 Agile/Scrum development methodologies and version control systems. Excellent numeracy, analytical, and troubleshooting skills.
 
-
-- ## Skills and Technologies
-
-- # Programming languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-- # Test Automation:
- ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-- # CICD:
- ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- # Frameworks:
- TestNG
-- # Technologies:
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,docker,gitlab,java,linux,mysql,nextjs,npm,notion,postman,selenium,ts,vscode)](https://skillicons.dev)
 
   ---------------------------------------------------------------------------------------------------------------------------
 
