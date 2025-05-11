@@ -30,7 +30,8 @@ Agile/Scrum development methodologies and version control systems. Excellent num
 <div align="center">
 
 <h2>📊 Profile stats</h2>
-![My user statistics](images/userstats.svg)
+
+<a![My user statistics](images/userstats.svg) />
 
 ![Tihraqua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tihraqua&show_icons=true&theme=radical)
   
