@@ -19,7 +19,7 @@ applications, and DB testing. Demonstrated expertise in creating test plans, tes
 performance testing using JMETER and automation testing using Selenium Webdriver and Appium with JAVA. Familiar with
 Agile/Scrum development methodologies and version control systems. Excellent numeracy, analytical, and troubleshooting skills.
 
-##Skills and Technologies
+## Skills and Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,docker,gitlab,java,linux,mysql,nextjs,npm,notion,postman,selenium,ts,vscode)](https://skillicons.dev)
 
