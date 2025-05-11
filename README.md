@@ -1,3 +1,4 @@
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 ## Hi there 👋
 # This is Tihraqua Alhussein
 - ⏳ 5+ years of experience in Software Testing.
