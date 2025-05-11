@@ -34,9 +34,9 @@ Agile/Scrum development methodologies and version control systems. Excellent num
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
   ---------------------------------------------------------------------------------------------------------------------------
-<div align="center">
+
 ![My user statistics](images/userstats.svg)
-</div> 
+
 <div align="center">
 
 <h2>📊 Profile stats</h2>
