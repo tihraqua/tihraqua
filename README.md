@@ -31,8 +31,6 @@ Agile/Scrum development methodologies and version control systems. Excellent num
 
 <h2>📊 Profile stats</h2>
 
-<a![My user statistics](images/userstats.svg) />
-
 ![Tihraqua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tihraqua&show_icons=true&theme=radical)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tihraqua&hide=scss,css,html&theme=dark&layout=compact)
