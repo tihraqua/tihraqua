@@ -8,10 +8,8 @@
 <p>
 <a href="https://www.linkedin.com/in/tihraqua/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/My%20LinkedIn-0077b5" height=25></a>
  <a href="https://tihraquamahdi.dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/My%20Personal%20Website-08296b" height=25></a>
+  <p align="left" height=25> <img src="https://komarev.com/ghpvc/?username=tihraqua&label=Profile%20views&color=0e75b6&style=flat" alt="tihraqua" /> </p>
 </p> 
-<p>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tihraqua&label=Profile%20views&color=0e75b6&style=flat" alt="tihraqua" /> </p>
-</p>
 
 
 
