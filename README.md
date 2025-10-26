@@ -3,7 +3,7 @@
 - ⏳ 6+ years of experience in Software Testing.
 - 🏆 Certified: ISTQB-FL, ISTQB-MAT
 - 🌱 I’m currently learning Playwright and JS
-- 📫 For free to contact me on [email](mailto:tihraquamahdi@gmail.com)
+- 📫 For free to contact me on [email](mailto:me@tihraquamahdi.dev)
 
 <p>
 <a href="https://www.linkedin.com/in/tihraqua/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/My%20LinkedIn-0077b5" height=25></a>
